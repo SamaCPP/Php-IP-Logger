@@ -1,5 +1,5 @@
 # Php-IP-Logger
-(Angland Version)�
+(Angland Version)
 💥Hi i will show you how to use this ip logger in php:
 
 1. For that you just have to create a .txt in the same folder as the index.php
